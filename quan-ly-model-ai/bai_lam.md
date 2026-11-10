@@ -156,7 +156,7 @@ Hoan thanh!
 | STT | Tab DevTools phát hiện lỗi | Tên file hoặc thông báo lỗi | Cách khắc phục |
 | --- | -------------------------- | --------------------------- | -------------- |
 | 1   |              network              |        lỗi không hiển thị ảnh                     |  logo-ai-hub.png     logo-ai-hub.png         |
-| 2   |                 console           |          lỗi không hiển thị bảng                   |                |
+| 2   |                 console           |          lỗi không hiển thị bảng                   |    vào app.js dòng cuối đổi thành hienThiBangModelAI();            |
 
 > Ảnh chụp màn hình lưu trong thư mục `evidence/` (network.png, console.png).
 
